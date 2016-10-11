@@ -42,8 +42,8 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  jekyll (= 3.3.0)
-  jekyll-feed (~> 0.6)
+  jekyll
+  jekyll-feed
   minima (~> 2.0)
 
 RUBY VERSION
